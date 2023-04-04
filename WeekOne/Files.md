@@ -5,7 +5,7 @@ When it comes to handling data in files it is import to remember a few key detai
 1. The name of the file you're attempting to access ( must be exact )
 2. File Path 
 3. File type
-4. Delimiters such as space, tab, comma, or newline charactrs.
+4. Delimiters such as space, tab, comma, or newline characters.
 
 ```cpp
 // Example File Paths:
