@@ -41,7 +41,7 @@ by __tab__, __return__, __comma__, or __space__.
 1, 2, 3, 4, 5, 6, 7, 8, 9
 ```
 
-![Screenshot 2023-04-03 at 21.14.27.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Frb%2Ffftfnq6x1tz43zqzj6xh6jj80000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_7BrwFV%2FScreenshot%202023-04-03%20at%2021.14.27.png)
+![Screenshot 2023-04-03 at 22.20.29.png](assets%2FScreenshot%202023-04-03%20at%2022.20.29.png)
 
 ## Code Sample - Reading and Writing Files
 ```cpp
@@ -222,6 +222,3 @@ int main()
     return 0;
 }
 ```
-![Screenshot 2023-04-03 at 22.09.39.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Frb%2Ffftfnq6x1tz43zqzj6xh6jj80000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_LB4WX8%2FScreenshot%202023-04-03%20at%2022.09.39.png)
-
-
