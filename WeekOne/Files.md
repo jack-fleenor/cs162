@@ -46,11 +46,11 @@ by __tab__, __return__, __comma__, or __space__.
 ## Code Sample - Reading and Writing Files
 ```cpp
 // This allows us to use the cout member function.
-# include <iostream>
+#include <iostream>
 // This allows us to use the ifstream and ofstream member functions.
 #include <fstream>
 // This allows us to use the exit() member function.
-#inlcude <cstdlib>
+#include <cstdlib>
 using namespace std;
 
 int main()
