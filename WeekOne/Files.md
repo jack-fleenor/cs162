@@ -104,7 +104,7 @@ int main()
 ```cpp
 // Appends data to the end of a file called data.txt
 #include <fstream>
-#inlcude <iostream>
+#include <iostream>
 
 using namespace std;
 
@@ -133,7 +133,7 @@ int main()
 ## Code Sample - Getting File Names as Input
 ```cpp
 #include <fstream>
-#inlcude <iostream>
+#include <iostream>
 
 using namespace std;
 
@@ -164,7 +164,7 @@ int main()
 ## Code Sample - Getting File Names as Output
 ```cpp
 #include <fstream>
-#inlcude <iostream>
+#include <iostream>
 
 using namespace std;
 
