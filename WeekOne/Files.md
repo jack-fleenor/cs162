@@ -113,8 +113,8 @@ int main()
     cout << "Opening data.txt to append data...";
     ofstream file_out;
     file_out.open("data.txt", ios::app);
-                                         // ios::app puts your position at the end of the file every time the stream is flushed.
-                                         // ios::ate puts your position to the end of the file it is opened.
+    // ios::app puts your position at the end of the file every time the stream is flushed.
+    // ios::ate puts your position to the end of the file it is opened.
                                          
     if(file_out.fail())
     {
